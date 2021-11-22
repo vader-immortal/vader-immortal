@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vader-immortal
 - 👀 I’m interested in Linux(specifically Arch, Manjaro), C,C++,Python,Django
-- 🌱 I’m currently learning C++, Python.
+- 🌱 I’m currently learning C, C++, Python, Java.
 - 💞️ I’m looking to collaborate on Manjaro (Though am kinda noob).
 - 📫 How to reach me isaacdawn007@gmail.com
 
